@@ -42,4 +42,9 @@
 * case 存放测试用例
 
 ## 使用实例
+![image text](http://chuantu.xyz/t6/741/1611664190x989559130.png)
+
+![image text](http://chuantu.xyz/t6/741/1611664239x-1404755342.png)
+
+![image text](http://chuantu.xyz/t6/741/1611664277x989559130.png)
 
