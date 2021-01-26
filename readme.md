@@ -16,7 +16,7 @@
     
 ## 框架结构如下
 ###公共方法
-* areacode.py     testng.py文件内使用的区域编码文件
+* areacode.py     文件内使用的区域编码文件
 * by_element.py   枚举查找元素的方式
 * openbrowser.py  封装常用的元素事件
 * testng,py       一些常用的数据生成（手机号码、身份证号码、随机名，读取Excel等）
@@ -36,6 +36,9 @@
 * conftest.py 修改测试报告的描述样式
 * run.py      执行所有测试用例
 
+## 测试用例
+
+* case 存放测试用例
 
 ## 使用实例
 
