@@ -19,6 +19,7 @@
 * areacode.py     文件内使用的区域编码文件
 * by_element.py   枚举查找元素的方式
 * openbrowser.py  封装常用的元素事件
+* readini.py      读取配置文件
 * testng,py       一些常用的数据生成（手机号码、身份证号码、随机名，读取Excel等）
 
 
@@ -29,7 +30,7 @@
 * error_img 存放用例失败后的的截图
 
 ### 日志
-* log.py    日志的疯转
+* log.py    日志的封装
 * log_file  日志存放位置
 
 ### 根目录
